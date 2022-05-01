@@ -1,0 +1,15 @@
+/Users/junmein/testdotnet6/app-console/bin/Debug/net6.0/app-console
+/Users/junmein/testdotnet6/app-console/bin/Debug/net6.0/app-console.deps.json
+/Users/junmein/testdotnet6/app-console/bin/Debug/net6.0/app-console.runtimeconfig.json
+/Users/junmein/testdotnet6/app-console/bin/Debug/net6.0/app-console.dll
+/Users/junmein/testdotnet6/app-console/bin/Debug/net6.0/app-console.pdb
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.csproj.AssemblyReference.cache
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.AssemblyInfoInputs.cache
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.AssemblyInfo.cs
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.csproj.CoreCompileInputs.cache
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.dll
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/refint/app-console.dll
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.pdb
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/app-console.genruntimeconfig.cache
+/Users/junmein/testdotnet6/app-console/obj/Debug/net6.0/ref/app-console.dll
